@@ -1,2 +1,2 @@
 #  IntaGran
-ez
+Instagran
